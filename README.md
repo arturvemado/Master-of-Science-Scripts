@@ -7,5 +7,5 @@
 - The dissertation with the results of th analysis can be found [here](https://www.teses.usp.br/teses/disponiveis/14/14131/tde-14052020-172856/pt-br.php)
 
 ## TODO
-- [] Organize notebooks
-- [] Describe notebooks
+- [ ] Organize notebooks
+- [ ] Describe notebooks
